@@ -1,7 +1,7 @@
 {
-    "name": "react-native-fast-image",
+    "name": "react-native-fast-image-forked",
     "version": "6.1.1",
-    "description": "🚩 FastImage, performant React Native image component.",
+    "description": "🚩 FastImage, performant React Native image component. (forked)",
     "keywords": [
         "cache",
         "cached",
